@@ -1,4 +1,4 @@
-name: CI
+name: workflow name - CI
 
 on: [push]
 
