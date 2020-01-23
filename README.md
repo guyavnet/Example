@@ -1,6 +1,4 @@
-# Example
-Example repository - hello world
+# note
+First line
 
-
-
-demo app - checking scans functionality 
+second line - checking scans functionality 
